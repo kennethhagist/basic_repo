@@ -1,1 +1,2 @@
 Coding Dojo commit, push, branching assignment.
+This was a small change to my local repo.
